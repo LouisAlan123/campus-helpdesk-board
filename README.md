@@ -1,6 +1,4 @@
-# Campus Help Desk Board (@YourSRN)
-
-> Replace `@YourSRN` above (and in your submission) with your actual SRN before uploading.
+# Campus Help Desk Board (@PES1UG24AM437)
 
 Students post short help requests and view the 10 most recent ones. PostgreSQL is the
 permanent store; Redis caches the latest-requests list for 60 seconds and tracks a
